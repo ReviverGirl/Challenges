@@ -1,0 +1,14 @@
+C:\Users\Reviv\source\repos\WeekOne\Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Reviv\source\repos\WeekOne\Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Reviv\source\repos\WeekOne\Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Reviv\source\repos\WeekOne\Challenges\bin\Debug\Challenges.dll
+C:\Users\Reviv\source\repos\WeekOne\Challenges\bin\Debug\Challenges.pdb
+C:\Users\Reviv\source\repos\WeekOne\Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Reviv\source\repos\WeekOne\Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Reviv\source\repos\WeekOne\Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Reviv\source\repos\WeekOne\Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Reviv\source\repos\WeekOne\Challenges\obj\Debug\Challenges.csprojAssemblyReference.cache
+C:\Users\Reviv\source\repos\WeekOne\Challenges\obj\Debug\Challenges.csproj.CoreCompileInputs.cache
+C:\Users\Reviv\source\repos\WeekOne\Challenges\obj\Debug\Challenges.csproj.CopyComplete
+C:\Users\Reviv\source\repos\WeekOne\Challenges\obj\Debug\Challenges.dll
+C:\Users\Reviv\source\repos\WeekOne\Challenges\obj\Debug\Challenges.pdb
